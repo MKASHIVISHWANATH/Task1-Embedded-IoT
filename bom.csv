@@ -1,0 +1,6 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"PIEZOBuzzer",1," Piezo"
+"DLed Red",1,"Red LED"
+"RResistor",1,"220 Ω Resistor"
+"PIRPir Motion Sensor",1," PIR Sensor"
